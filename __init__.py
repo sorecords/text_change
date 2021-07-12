@@ -16,9 +16,9 @@
 #
 # ##### END GPL LICENSE BLOCK #####
 
-#  TRUE TIME REMAPPING
-#  Time remapping add-on for Blender 2.82+
-#  (c) 2020 Andrey Sokolov (so_records)
+#  TEXT CHANGE ADD-ON
+#  Text Change add-on for Blender 2.83+
+#  (c) 2021 Andrey Sokolov (so_records)
 
 bl_info = {
     "name": "Text Change",
